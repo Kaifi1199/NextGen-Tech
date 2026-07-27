@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="" height="" viewBox="0 0 1920 161" preserveAspectRatio="none" class="svg plug-banner-shape replaced-svg">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M0,1047v1H1920V887Z" transform="translate(0 -887)"></path>
+</svg>
